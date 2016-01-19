@@ -1,0 +1,14 @@
+An exercise in neural networks.
+
+Goal: Using a programming language of choice, implement a one layer NN to classify 4 objects.
+
+Input: Any object (audio, video, picture etc.)
+Output: JSON with two fields.
+
+Sample output: 
+{
+	"context" : "context",
+	"action" : "action
+}
+
+Context is relevant to the input and action is answer/solution.
